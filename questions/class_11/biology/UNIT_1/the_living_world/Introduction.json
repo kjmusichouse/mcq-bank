@@ -1,1 +1,22 @@
-
+[
+    {
+        "question": "Q1. What is the powerhouse of the cell?",
+        "options": [
+            "A. Ribosome",
+            "B. Mitochondria",
+            "C. Nucleus",
+            "D. Endoplasmic Reticulum"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Q2. Which gas is essential for photosynthesis?",
+        "options": [
+            "A. Oxygen",
+            "B. Carbon Dioxide",
+            "C. Nitrogen",
+            "D. Hydrogen"
+        ],
+        "answer": "B"
+    }
+]
